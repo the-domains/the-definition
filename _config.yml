@@ -1,0 +1,28 @@
+name: The Definition
+favicon: null
+layout_spectrum: 0.7136893225833774
+typography_spectrum: 0.3802636954933405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.48940515518188477
+  lightness: 0.8234473976772279
+  saturation: 0.8656565304845572
+  rhythmicContrast: 0.18557316856458783
+purpose: []
